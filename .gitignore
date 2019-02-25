@@ -215,3 +215,14 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+# SAFE-template
+.fable/
+.fake/
+paket-files/
+node_modules/
+src/Client/public/js/
+release.cmd
+release.sh
+.idea/
+deploy
