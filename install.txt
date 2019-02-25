@@ -1,0 +1,5 @@
+.net core SDK 2.2 https://www.microsoft.com/net/download/
+FAKE >= 5.12 (https://fake.build/) - dotnet tool install -g fake-cli 
+Paket >= 5.196 - dotnet tool install -g paket
+node.js >= 8.0 - https://nodejs.org/
+yarn >= 1.10.1 - https://yarnpkg.com/
