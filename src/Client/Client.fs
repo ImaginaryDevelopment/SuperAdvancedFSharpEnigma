@@ -104,7 +104,7 @@ let showData =
     >> function
         |None -> str "No data loaded"
         |Some tbl ->
-            table [Id "myTable"][
+            table [Id "myTable"; ClassName "display"][
                 thead [] [
                     tr [] [
                         th [] [str "Index"]
