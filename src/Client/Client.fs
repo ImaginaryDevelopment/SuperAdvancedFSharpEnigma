@@ -39,7 +39,9 @@ let initialCounter = Server.api.initialCounter
 
 // defines the initial state and initial command (= side-effect) of the application
 let init() : Model * Cmd<Msg> =
-    let initialModel = { Counter = None;Data=[["1";"Hello"];["2";"World"]]}
+    let randoms =
+        [3..21] |> List.map(string >> fun i -> [i;i])
+    let initialModel = { Counter = None;Data=["1";"Hello"]::["2";"World"]::randoms}
     let loadCountCmd =
         Cmd.ofAsync initialCounter () (Ok >> InitialCountLoaded)
             (Error >> InitialCountLoaded)
