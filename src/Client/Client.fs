@@ -14,7 +14,9 @@ open Fulma
 // we mark it as optional, because initially it will not be available from the client
 // the initial value will be requested from server
 type Model =
-    { Counter : Counter option }
+    { Counter : Counter option
+      Data: string list list
+    }
 
 // The Msg type defines what events/actions can occur while the application is running
 // the state of the application changes *only* in reaction to these events
@@ -37,7 +39,7 @@ let initialCounter = Server.api.initialCounter
 
 // defines the initial state and initial command (= side-effect) of the application
 let init() : Model * Cmd<Msg> =
-    let initialModel = { Counter = None }
+    let initialModel = { Counter = None;Data=[["1";"Hello"];["2";"World"]]}
     let loadCountCmd =
         Cmd.ofAsync initialCounter () (Ok >> InitialCountLoaded)
             (Error >> InitialCountLoaded)
@@ -57,7 +59,7 @@ let update (msg : Msg) (currentModel : Model) : Model * Cmd<Msg> =
             { currentModel with Counter = Some { Value = counter.Value - 1 } }
         nextModel, Cmd.none
     | _, InitialCountLoaded(Ok initialCount) ->
-        let nextModel = { Counter = Some initialCount }
+        let nextModel = { currentModel with Counter = Some initialCount }
         nextModel, Cmd.none
     | _ -> currentModel, Cmd.none
 
@@ -87,10 +89,38 @@ let safeComponents =
            str " powered by: "
            components ]
 
-let show =
+let showCounter =
     function
-    | { Counter = Some counter } -> string counter.Value
-    | { Counter = None } -> "Loading..."
+    | Some counter -> string counter.Value
+    | None -> "Loading..."
+let showData =
+    function
+    | [] | [[]] ->
+        None
+    | x when x |> Seq.collect id |> Seq.exists(fun _ -> true) |> not -> None
+    | x -> Some x
+    >> function
+        |None -> str "No data loaded"
+        |Some tbl ->
+            table [Id "myTable"][
+                thead [] [
+                    tr [] [
+                        th [] [str "Index"]
+                        th [] [str "Item"]
+                    ]
+                ]
+                tbody [] (
+                    tbl
+                    |> List.map(fun row ->
+                        tr [] (
+                            row
+                            |> List.map(fun s -> td [] [str s])
+                        )
+                    )
+                )
+
+                ]
+
 
 let button txt onClick =
     Button.button [ Button.IsFullWidth
@@ -98,6 +128,7 @@ let button txt onClick =
                     Button.OnClick onClick ] [ str txt ]
 
 let view (model : Model) (dispatch : Msg -> unit) =
+    let x = showData model.Data
     div []
         [ Navbar.navbar [ Navbar.Color IsPrimary ]
               [ Navbar.Item.div [] [ Heading.h2 [] [ str "SAFE Template" ] ] ]
@@ -110,7 +141,7 @@ let view (model : Model) (dispatch : Msg -> unit) =
                     [ Heading.h3 []
                           [ str
                                 ("Press buttons to manipulate counter: "
-                                 + show model) ] ]
+                                 + showCounter model.Counter) ] ]
 
                 Columns.columns []
                     [ Column.column []
@@ -118,7 +149,16 @@ let view (model : Model) (dispatch : Msg -> unit) =
 
                       Column.column []
                           [ button "+" (fun _ -> dispatch Increment) ] ] ]
-
+          Container.container []
+              [ Content.content
+                    [ Content.Modifiers
+                          [ Modifier.TextAlignment
+                                (Screen.All, TextAlignment.Centered) ] ]
+                    [ Heading.h3 []
+                          [ str "datatables"]
+                    ]
+                (showData model.Data)
+              ]
           Footer.footer []
               [ Content.content
                     [ Content.Modifiers
