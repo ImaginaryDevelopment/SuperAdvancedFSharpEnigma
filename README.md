@@ -25,9 +25,10 @@ fake build -t Run
 
 You will find more documentation about the used F# components at the following places:
 
-* [Saturn](https://saturnframework.org/docs/)
+* [Giraffe](https://github.com/giraffe-fsharp/Giraffe/blob/master/DOCUMENTATION.md)
 * [Fable](https://fable.io/docs/)
 * [Elmish](https://elmish.github.io/elmish/)
+* [Fable.Remoting](https://zaid-ajaj.github.io/Fable.Remoting/)
 * [Fulma](https://fulma.github.io/Fulma/)
 
 If you want to know more about the full Azure Stack and all of it's components (including Azure) visit the official [SAFE documentation](https://safe-stack.github.io/docs/).

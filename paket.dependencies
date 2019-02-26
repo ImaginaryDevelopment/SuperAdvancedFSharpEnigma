@@ -4,8 +4,10 @@ group Server
     storage: none
 
     nuget FSharp.Core
-    nuget Saturn
-    nuget Thoth.Json.Giraffe
+    nuget Giraffe
+    nuget Microsoft.AspNetCore
+    nuget Microsoft.AspNetCore.StaticFiles
+    nuget Fable.Remoting.Giraffe
 
 group Client
     source https://api.nuget.org/v3/index.json
@@ -18,6 +20,7 @@ group Client
     nuget Fable.Elmish.React ~> 2
     nuget Fable.Elmish.HMR ~> 2
     nuget Fable.React ~> 4
+    nuget Fable.Remoting.Client ~> 4
     nuget Fulma
     nuget Fable.FontAwesome.Free
 

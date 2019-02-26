@@ -28,15 +28,26 @@ type Msg =
 | Decrement
 | InitialCountLoaded of Result<Counter, exn>
 
-let initialCounter = fetchAs<Counter> "/api/init" (Decode.Auto.generateDecoder())
+module Server =
+
+    open Shared
+    open Fable.Remoting.Client
+
+    /// A proxy you can use to talk to server directly
+    let api : ICounterApi =
+      Remoting.createApi()
+      |> Remoting.withRouteBuilder Route.builder
+      |> Remoting.buildProxy<ICounterApi>
+
+let initialCounter = Server.api.initialCounter
 
 // defines the initial state and initial command (= side-effect) of the application
 let init () : Model * Cmd<Msg> =
     let initialModel = { Counter = None }
     let loadCountCmd =
-        Cmd.ofPromise
+        Cmd.ofAsync
             initialCounter
-            []
+            ()
             (Ok >> InitialCountLoaded)
             (Error >> InitialCountLoaded)
     initialModel, loadCountCmd
@@ -65,13 +76,15 @@ let safeComponents =
     let components =
         span [ ]
            [
-             a [ Href "https://saturnframework.github.io" ] [ str "Saturn" ]
+             a [ Href "https://github.com/giraffe-fsharp/Giraffe" ] [ str "Giraffe" ]
              str ", "
              a [ Href "http://fable.io" ] [ str "Fable" ]
              str ", "
              a [ Href "https://elmish.github.io/elmish/" ] [ str "Elmish" ]
              str ", "
              a [ Href "https://fulma.github.io/Fulma" ] [ str "Fulma" ]
+             str ", "
+             a [ Href "https://zaid-ajaj.github.io/Fable.Remoting/" ] [ str "Fable.Remoting" ]
            ]
 
     p [ ]
