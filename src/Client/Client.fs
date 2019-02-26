@@ -180,7 +180,8 @@ Program.mkProgram init update view
 
 |> Program.withReact "elmish-app"
 #if DEBUG
-|> Program.withDebugger
+//https://github.com/elmish/templates/issues/36
+//|> Program.withDebugger
 #endif
 
 |> Program.run
