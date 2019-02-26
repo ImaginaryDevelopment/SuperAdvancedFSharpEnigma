@@ -88,7 +88,11 @@ let safeComponents =
            ]
 
     p [ ]
-        [ strong [] [ str "SAFE Template" ]
+        [ strong [] [
+                a [ Href "https://safe-stack.github.io/"] [str "SAFE" ]
+                str " "
+                a [ Href "https://safe-stack.github.io/docs/template-overview/#template-options"] [str "Template"]
+            ]
           str " powered by: "
           components ]
 
