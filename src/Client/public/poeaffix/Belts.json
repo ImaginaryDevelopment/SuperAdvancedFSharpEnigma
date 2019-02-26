@@ -1,0 +1,6321 @@
+[
+  {
+    "EffixType": "Prefix",
+    "Children": [
+      {
+        "Display": "+# to maximum Life\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 13",
+            "Meta": "Hale",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(3-9) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(14-20) to maximum Life+(14-20) to maximum Mana ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 12",
+            "Meta": "Healthy",
+            "ILvl": 5,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-19) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 11",
+            "Meta": "Sanguine",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(20-29) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(15-25) to maximum Life ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 10",
+            "Meta": "Stalwart",
+            "ILvl": 18,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-39) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 9",
+            "Meta": "Stout",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(40-49) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-27) to maximum Life+(21-27) to maximum Mana ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 8",
+            "Meta": "Robust",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(50-59) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "Rotund",
+            "ILvl": 36,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(60-69) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(26-40) to maximum Life ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "Virile",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(70-79) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(28-33) to maximum Life+(28-33) to maximum Mana ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Athlete's",
+            "ILvl": 54,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(80-89) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Fecund",
+            "ILvl": 64,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(90-99) to maximum Life ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(41-55) to maximum Life ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(34-40) to maximum Life+(34-40) to maximum Mana ",
+            "Chance": "0%"
+          }
+        ]
+      },
+      {
+        "Display": "+# to maximum Energy Shield\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 12",
+            "Meta": "Shining",
+            "ILvl": 3,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(1-3) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 3,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Whispering Essence of Woe",
+            "Display": "+(1-3) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 11",
+            "Meta": "Glimmering",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(4-8) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Muttering Essence of Woe",
+            "Display": "+(4-8) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 10",
+            "Meta": "Glittering",
+            "ILvl": 17,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(9-12) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 9",
+            "Meta": "Glowing",
+            "ILvl": 23,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-15) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 8",
+            "Meta": "Radiating",
+            "ILvl": 29,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-19) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 29,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Weeping Essence of Woe",
+            "Display": "+(16-19) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "Pulsing",
+            "ILvl": 35,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(20-22) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "Seething",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(23-26) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Wailing Essence of Woe",
+            "Display": "+(23-26) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Blazing",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(27-31) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Screaming Essence of Woe",
+            "Display": "+(27-31) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Scintillating",
+            "ILvl": 59,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(32-37) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 59,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Shrieking Essence of Woe",
+            "Display": "+(32-37) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Incandescent",
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(38-43) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Deafening Essence of Woe",
+            "Display": "+(38-43) to maximum Energy Shield ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Resplendent",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(44-47) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Dazzling",
+            "ILvl": 80,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(48-51) to maximum Energy Shield ",
+            "Chance": "2.79%"
+          }
+        ]
+      },
+      {
+        "Display": "+# to Armour\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "Lacquered",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(3-10) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "Studded",
+            "ILvl": 18,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(11-35) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "Ribbed",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-60) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Fortified",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(61-138) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Plated",
+            "ILvl": 57,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(139-322) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 57,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Screaming Essence of Dread",
+            "Display": "+(139-322) to Armour ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Carapaced",
+            "ILvl": 71,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(323-400) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 71,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Shrieking Essence of Dread",
+            "Display": "+(323-400) to Armour ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Deafening Essence of Dread",
+            "Display": "+(420-480) to Armour ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Encased",
+            "ILvl": 83,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(401-460) to Armour ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Enveloped",
+            "ILvl": 86,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(461-540) to Armour ",
+            "Chance": "2.79%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Elemental Damage with Attack Skills\n",
+        "FossilCategories": [
+          "attack",
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "Catalysing",
+            "ILvl": 4,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(5-10)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Infusing",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(11-20)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Empowering",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(21-30)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "(15-23)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "(24-32)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Unleashed",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(31-36)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Overpowering",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(37-42)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Devastating",
+            "ILvl": 86,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(43-50)% increased Elemental Damage with Attack Skills ",
+            "Chance": "0.84%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Flask Life Recovery rate\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Whispering Essence of Greed",
+            "Display": "(8-11)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Recovering",
+            "ILvl": 5,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-20)% increased Flask Life Recovery rate ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Inspiring",
+            "ILvl": 5,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-20)% increased Flask Mana Recovery rate ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Muttering Essence of Greed",
+            "Display": "(12-15)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Weeping Essence of Greed",
+            "Display": "(16-19)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Wailing Essence of Greed",
+            "Display": "(20-23)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Screaming Essence of Greed",
+            "Display": "(24-27)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Screaming Essence of Misery",
+            "Display": "(11-15)% increased Flask Mana Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Shrieking Essence of Greed",
+            "Display": "(28-31)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Shrieking Essence of Misery",
+            "Display": "(16-20)% increased Flask Mana Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Deafening Essence of Greed",
+            "Display": "(32-35)% increased Flask Life Recovery rate ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Deafening Essence of Misery",
+            "Display": "(21-25)% increased Flask Mana Recovery rate ",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "Reflects # Physical Damage to Melee Attackers\n",
+        "FossilCategories": [
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 4",
+            "Meta": "Thorny",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": null,
+            "Display": "Reflects (1-4) Physical Damage to Melee Attackers ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Whispering Essence of Contempt",
+            "Display": "Reflects (1-4) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Spiny",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": null,
+            "Display": "Reflects (5-10) Physical Damage to Melee Attackers ",
+            "Chance": "2.79%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Muttering Essence of Contempt",
+            "Display": "Reflects (5-10) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Weeping Essence of Contempt",
+            "Display": "Reflects (11-24) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 35,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Wailing Essence of Contempt",
+            "Display": "Reflects (25-50) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Screaming Essence of Contempt",
+            "Display": "Reflects (51-100) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Shrieking Essence of Contempt",
+            "Display": "Reflects (101-150) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Deafening Essence of Contempt",
+            "Display": "Reflects (151-200) Physical Damage to Melee Attackers ",
+            "Chance": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Suffix",
+    "Children": [
+      {
+        "Display": " to Strength\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 10",
+            "Meta": "of the Brute",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(8-12) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 9",
+            "Meta": "of the Wrestler",
+            "ILvl": 11,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(13-17) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-20) to Strength",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 20,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(21-25) to Strength",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Bear",
+            "ILvl": 22,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(18-22) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 22,
+            "Special": {},
+            "Essence": "Weeping Essence of Rage",
+            "Display": "+(18-22) to Strength",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Lion",
+            "ILvl": 33,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(23-27) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 40,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(26-30) to Strength",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Gorilla",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(28-32) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Wailing Essence of Rage",
+            "Display": "+(28-32) to Strength",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Goliath",
+            "ILvl": 55,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(33-37) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 55,
+            "Special": {},
+            "Essence": "Screaming Essence of Rage",
+            "Display": "+(33-37) to Strength",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Leviathan",
+            "ILvl": 66,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(38-42) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Titan",
+            "ILvl": 74,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(43-50) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {},
+            "Essence": "Shrieking Essence of Rage",
+            "Display": "+(43-50) to Strength",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Gods",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(51-55) to Strength",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Rage",
+            "Display": "+(51-58) to Strength",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of the Godslayer",
+            "ILvl": 85,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(56-60) to Strength",
+            "Chance": "1.6%"
+          }
+        ]
+      },
+      {
+        "Display": "# Life Regenerated per second\n",
+        "FossilCategories": [
+          "flat_life_regen",
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Newt",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(1-2) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Lizard",
+            "ILvl": 18,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(2-4) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Flatworm",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(4-7) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Starfish",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(7-10) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Hydra",
+            "ILvl": 59,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-13) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Troll",
+            "ILvl": 78,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(13-16) Life Regenerated per second ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Ryslatha",
+            "ILvl": 83,
+            "Special": {
+              "Fossil": [
+                "flat_life_regen",
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(16-20) Life Regenerated per second ",
+            "Chance": "1.6%"
+          }
+        ]
+      },
+      {
+        "Display": "% reduced Enemy Stun Threshold\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Pugilist",
+            "ILvl": 5,
+            "Special": {},
+            "Essence": null,
+            "Display": "(5-7)% reduced Enemy Stun Threshold",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Brawler",
+            "ILvl": 20,
+            "Special": {},
+            "Essence": null,
+            "Display": "(8-9)% reduced Enemy Stun Threshold",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Boxer",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-11)% reduced Enemy Stun Threshold",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Combatant",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": null,
+            "Display": "(12-13)% reduced Enemy Stun Threshold",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Screaming Essence of Scorn",
+            "Display": "(12-13)% reduced Enemy Stun Threshold",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of the Gladiator",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": null,
+            "Display": "(14-15)% reduced Enemy Stun Threshold",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": "Shrieking Essence of Scorn",
+            "Display": "(14-15)% reduced Enemy Stun Threshold",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Scorn",
+            "Display": "(16-17)% reduced Enemy Stun Threshold",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire Resistance\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Whelpling",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Salamander",
+            "ILvl": 12,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 12,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Muttering Essence of Anger",
+            "Display": "+(12-17)% to Fire Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Fire Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Drake",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Weeping Essence of Anger",
+            "Display": "+(18-23)% to Fire Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Fire Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Kiln",
+            "ILvl": 36,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 36,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Wailing Essence of Anger",
+            "Display": "+(24-29)% to Fire Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Furnace",
+            "ILvl": 48,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Fire Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Volcano",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Screaming Essence of Anger",
+            "Display": "+(36-41)% to Fire Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Magma",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Shrieking Essence of Anger",
+            "Display": "+(42-45)% to Fire Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Tzteosh",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Fire Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Deafening Essence of Anger",
+            "Display": "+(46-48)% to Fire Resistance ",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Cold Resistance\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Inuit",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Whispering Essence of Hatred",
+            "Display": "+(6-11)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Seal",
+            "ILvl": 14,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 14,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Muttering Essence of Hatred",
+            "Display": "+(12-17)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Cold Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Penguin",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Weeping Essence of Hatred",
+            "Display": "+(18-23)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Cold Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Yeti",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Wailing Essence of Hatred",
+            "Display": "+(24-29)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Walrus",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Cold Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Polar Bear",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Screaming Essence of Hatred",
+            "Display": "+(36-41)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Ice",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Shrieking Essence of Hatred",
+            "Display": "+(42-45)% to Cold Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Haast",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Cold Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Deafening Essence of Hatred",
+            "Display": "+(46-48)% to Cold Resistance ",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Lightning Resistance\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Cloud",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Squall",
+            "ILvl": 13,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Lightning Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Storm",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Weeping Essence of Wrath",
+            "Display": "+(18-23)% to Lightning Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Lightning Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Thunderhead",
+            "ILvl": 37,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 37,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Wailing Essence of Wrath",
+            "Display": "+(24-29)% to Lightning Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Tempest",
+            "ILvl": 49,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Lightning Resistance ",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Maelstrom",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Screaming Essence of Wrath",
+            "Display": "+(36-41)% to Lightning Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Lightning",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Shrieking Essence of Wrath",
+            "Display": "+(42-45)% to Lightning Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Ephij",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Lightning Resistance ",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Deafening Essence of Wrath",
+            "Display": "+(46-48)% to Lightning Resistance ",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Chaos Resistance\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Lost",
+            "ILvl": 16,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(5-10)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Banishment",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(11-15)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Eviction",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Expulsion",
+            "ILvl": 56,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-25)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 56,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Screaming Essence of Envy",
+            "Display": "+(21-25)% to Chaos Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Exile",
+            "ILvl": 65,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(26-30)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 65,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Shrieking Essence of Envy",
+            "Display": "+(26-30)% to Chaos Resistance ",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Bameth",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(31-35)% to Chaos Resistance ",
+            "Chance": "0.4%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Deafening Essence of Envy",
+            "Display": "+(31-35)% to Chaos Resistance ",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "% increased Stun and Block Recovery\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "of Thick Skin",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-13)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Stone Skin",
+            "ILvl": 17,
+            "Special": {},
+            "Essence": null,
+            "Display": "(14-16)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Iron Skin",
+            "ILvl": 28,
+            "Special": {},
+            "Essence": null,
+            "Display": "(17-19)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Steel Skin",
+            "ILvl": 42,
+            "Special": {},
+            "Essence": null,
+            "Display": "(20-22)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {},
+            "Essence": "Wailing Essence of Zeal",
+            "Display": "(20-22)% increased Stun and Block Recovery",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Adamantite Skin",
+            "ILvl": 56,
+            "Special": {},
+            "Essence": null,
+            "Display": "(23-25)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 56,
+            "Special": {},
+            "Essence": "Screaming Essence of Zeal",
+            "Display": "(23-25)% increased Stun and Block Recovery",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Corundum Skin",
+            "ILvl": 79,
+            "Special": {},
+            "Essence": null,
+            "Display": "(26-28)% increased Stun and Block Recovery",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 79,
+            "Special": {},
+            "Essence": "Shrieking Essence of Zeal",
+            "Display": "(26-28)% increased Stun and Block Recovery",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Zeal",
+            "Display": "(29-34)% increased Stun and Block Recovery",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "% increased Stun Duration on Enemies\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Impact",
+            "ILvl": 5,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-15)% increased Stun Duration on Enemies",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Dazing",
+            "ILvl": 18,
+            "Special": {},
+            "Essence": null,
+            "Display": "(16-20)% increased Stun Duration on Enemies",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Stunning",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": null,
+            "Display": "(21-25)% increased Stun Duration on Enemies",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": "Wailing Essence of Loathing",
+            "Display": "(21-25)% increased Stun Duration on Enemies",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Slamming",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": null,
+            "Display": "(26-30)% increased Stun Duration on Enemies",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Screaming Essence of Loathing",
+            "Display": "(26-30)% increased Stun Duration on Enemies",
+            "Chance": ""
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Staggering",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": null,
+            "Display": "(31-35)% increased Stun Duration on Enemies",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": "Shrieking Essence of Loathing",
+            "Display": "(31-35)% increased Stun Duration on Enemies",
+            "Chance": ""
+          },
+          {
+            "Tier": "",
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Loathing",
+            "Display": "(36-39)% increased Stun Duration on Enemies",
+            "Chance": ""
+          }
+        ]
+      },
+      {
+        "Display": "% increased Flask Charges gained\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Refilling",
+            "ILvl": 2,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-20)% increased Flask Charges gained",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Overflowing",
+            "ILvl": 85,
+            "Special": {},
+            "Essence": null,
+            "Display": "(21-30)% increased Flask Charges gained",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Sipping",
+            "ILvl": 3,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-20)% reduced Flask Charges used",
+            "Chance": "1.6%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Flask effect duration\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Savouring",
+            "ILvl": 7,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-20)% increased Flask effect duration",
+            "Chance": "1.6%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "(5-10)% increased Flask effect duration",
+            "Chance": "0%"
+          },
+          {
+            "Tier": "",
+            "Meta": "Helena 0",
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-15)% increased Flask effect duration",
+            "Chance": "0%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Forsaken Masters Prefix",
+    "Children": [
+      {
+        "Display": "+# to maximum Life\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(15-25) to maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(26-40) to maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(41-55) to maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(14-20) to maximum Life+(14-20) to maximum Mana ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-27) to maximum Life+(21-27) to maximum Mana ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(28-33) to maximum Life+(28-33) to maximum Mana ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "life",
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(34-40) to maximum Life+(34-40) to maximum Mana ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to maximum Mana\n",
+        "FossilCategories": [
+          "mana"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(25-34) to maximum Mana ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(35-44) to maximum Mana ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(45-54) to maximum Mana ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Elemental Damage with Attack Skills\n",
+        "FossilCategories": [
+          "attack",
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "(15-23)% increased Elemental Damage with Attack Skills ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "(24-32)% increased Elemental Damage with Attack Skills ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to Armour and Evasion Rating\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(35-60) to Armour and Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(61-110) to Armour and Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(111-185) to Armour and Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(186-285) to Armour and Evasion Rating ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to Armour+# to maximum Energy Shield\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(35-60) to Armour+(6-10) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(61-110) to Armour+(11-15) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(111-185) to Armour+(16-20) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(186-285) to Armour+(21-25) to maximum Energy Shield ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to Evasion Rating+# to maximum Energy Shield\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(35-60) to Evasion Rating+(6-10) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(61-110) to Evasion Rating+(11-15) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(111-185) to Evasion Rating+(16-20) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(186-285) to Evasion Rating+(21-25) to maximum Energy Shield ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased effect of Flasks on you\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(3-4)% increased effect of Flasks on you",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {},
+            "Essence": null,
+            "Display": "(5-6)% increased effect of Flasks on you",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(7-8)% increased effect of Flasks on you",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(8-10)% increased effect of Flasks on you20% reduced Flask Charges gained",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-14)% increased effect of Flasks on you33% reduced Flask Charges gained",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% chance for your Flasks to not consume Charges\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(5-6)% chance for your Flasks to not consume Charges",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(7-8)% chance for your Flasks to not consume Charges",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Damage\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(8-10)% increased Damage",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-13)% increased Damage",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "(14-16)% increased Damage",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(17-20)% increased Damage",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Forsaken Masters Suffix",
+    "Children": [
+      {
+        "Display": "+#% to Fire Resistance\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Fire Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Cold Resistance\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Cold Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Lightning Resistance\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-28)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(29-35)% to Lightning Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Strength\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 15,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-20) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 20,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(21-25) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 40,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(26-30) to Strength",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire and Cold Resistances\n",
+        "FossilCategories": [
+          "fire",
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Fire and Cold Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-16)% to Fire and Cold Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(17-20)% to Fire and Cold Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Cold and Lightning Resistances\n",
+        "FossilCategories": [
+          "cold",
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Cold and Lightning Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-16)% to Cold and Lightning Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(17-20)% to Cold and Lightning Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire and Lightning Resistances\n",
+        "FossilCategories": [
+          "fire",
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Fire and Lightning Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-16)% to Fire and Lightning Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(17-20)% to Fire and Lightning Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Flask effect duration\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "(5-10)% increased Flask effect duration",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Helena 0",
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-15)% increased Flask effect duration",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Strength and Dexterity\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(6-8) to Strength and Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(9-11) to Strength and Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(12-14) to Strength and Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-17) to Strength and Dexterity",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Dexterity and Intelligence\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(6-8) to Dexterity and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(9-11) to Dexterity and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(12-14) to Dexterity and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-17) to Dexterity and Intelligence",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Strength and Intelligence\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(6-8) to Strength and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(9-11) to Strength and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(12-14) to Strength and Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-17) to Strength and Intelligence",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Cooldown Recovery Speed\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(6-8)% increased Cooldown Recovery Speed",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(9-12)% increased Cooldown Recovery Speed",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "# Energy Shield Regenerated per second while a Rare or Unique Enemy is Nearby\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "15 Energy Shield Regenerated per second while a Rare or Unique Enemy is Nearby ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "30 Energy Shield Regenerated per second while a Rare or Unique Enemy is Nearby ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "60 Energy Shield Regenerated per second while a Rare or Unique Enemy is Nearby ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "120 Energy Shield Regenerated per second while a Rare or Unique Enemy is Nearby ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "grant_focus_skill [#]\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 50,
+            "Special": {},
+            "Essence": null,
+            "Display": "Your Critical Strike Chance is Lucky while Focussedgrant_focus_skill [1]",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire and Chaos Resistances\n",
+        "FossilCategories": [
+          "fire",
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(8-9)% to Fire and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Fire and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "fire",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-15)% to Fire and Chaos Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Lightning and Chaos Resistances\n",
+        "FossilCategories": [
+          "lightning",
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "lightning",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(8-9)% to Lightning and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "lightning",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Lightning and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "lightning",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-15)% to Lightning and Chaos Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Cold and Chaos Resistances\n",
+        "FossilCategories": [
+          "cold",
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(8-9)% to Cold and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(10-12)% to Cold and Chaos Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "cold",
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-15)% to Cold and Chaos Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% of Life Regenerated per second during any Flask Effect\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "1% of Life Regenerated per second during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "1.5% of Life Regenerated per second during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "2% of Life Regenerated per second during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Trap Throwing Speed\n",
+        "FossilCategories": [
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": null,
+            "Display": "(7-8)% increased Trap Throwing Speed ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": null,
+            "Display": "(9-10)% increased Trap Throwing Speed ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "Jun 0",
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": null,
+            "Display": "(11-12)% increased Trap Throwing Speed ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Essence Prefix",
+    "Children": [
+      {
+        "Display": "+# to maximum Energy Shield\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 3,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Whispering Essence of Woe",
+            "Display": "+(1-3) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Muttering Essence of Woe",
+            "Display": "+(4-8) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 29,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Weeping Essence of Woe",
+            "Display": "+(16-19) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Wailing Essence of Woe",
+            "Display": "+(23-26) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Screaming Essence of Woe",
+            "Display": "+(27-31) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 59,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Shrieking Essence of Woe",
+            "Display": "+(32-37) to maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Deafening Essence of Woe",
+            "Display": "+(38-43) to maximum Energy Shield ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Flask Life Recovery rate\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Whispering Essence of Greed",
+            "Display": "(8-11)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Muttering Essence of Greed",
+            "Display": "(12-15)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Weeping Essence of Greed",
+            "Display": "(16-19)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Wailing Essence of Greed",
+            "Display": "(20-23)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Screaming Essence of Greed",
+            "Display": "(24-27)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Shrieking Essence of Greed",
+            "Display": "(28-31)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Deafening Essence of Greed",
+            "Display": "(32-35)% increased Flask Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Screaming Essence of Misery",
+            "Display": "(11-15)% increased Flask Mana Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Shrieking Essence of Misery",
+            "Display": "(16-20)% increased Flask Mana Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Deafening Essence of Misery",
+            "Display": "(21-25)% increased Flask Mana Recovery rate ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Reflects # Physical Damage to Melee Attackers\n",
+        "FossilCategories": [
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Whispering Essence of Contempt",
+            "Display": "Reflects (1-4) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Muttering Essence of Contempt",
+            "Display": "Reflects (5-10) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Weeping Essence of Contempt",
+            "Display": "Reflects (11-24) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 35,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Wailing Essence of Contempt",
+            "Display": "Reflects (25-50) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Screaming Essence of Contempt",
+            "Display": "Reflects (51-100) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Shrieking Essence of Contempt",
+            "Display": "Reflects (101-150) Physical Damage to Melee Attackers ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Deafening Essence of Contempt",
+            "Display": "Reflects (151-200) Physical Damage to Melee Attackers ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to Evasion Rating\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 29,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Weeping Essence of Doubt",
+            "Display": "+(36-60) to Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Wailing Essence of Doubt",
+            "Display": "+(61-80) to Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Screaming Essence of Doubt",
+            "Display": "+(81-120) to Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Shrieking Essence of Doubt",
+            "Display": "+(121-150) to Evasion Rating ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Deafening Essence of Doubt",
+            "Display": "+(151-180) to Evasion Rating ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+# to Armour\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 57,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Screaming Essence of Dread",
+            "Display": "+(139-322) to Armour ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 71,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Shrieking Essence of Dread",
+            "Display": "+(323-400) to Armour ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Deafening Essence of Dread",
+            "Display": "+(420-480) to Armour ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Essence Suffix",
+    "Children": [
+      {
+        "Display": "+#% to Cold Resistance\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Whispering Essence of Hatred",
+            "Display": "+(6-11)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 14,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Muttering Essence of Hatred",
+            "Display": "+(12-17)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Weeping Essence of Hatred",
+            "Display": "+(18-23)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Wailing Essence of Hatred",
+            "Display": "+(24-29)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Screaming Essence of Hatred",
+            "Display": "+(36-41)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Shrieking Essence of Hatred",
+            "Display": "+(42-45)% to Cold Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Deafening Essence of Hatred",
+            "Display": "+(46-48)% to Cold Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Dexterity\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 11,
+            "Special": {},
+            "Essence": "Muttering Essence of Sorrow",
+            "Display": "+(13-17) to Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 22,
+            "Special": {},
+            "Essence": "Weeping Essence of Sorrow",
+            "Display": "+(18-22) to Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Wailing Essence of Sorrow",
+            "Display": "+(28-32) to Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 55,
+            "Special": {},
+            "Essence": "Screaming Essence of Sorrow",
+            "Display": "+(33-37) to Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {},
+            "Essence": "Shrieking Essence of Sorrow",
+            "Display": "+(43-50) to Dexterity",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Sorrow",
+            "Display": "+(53-58) to Dexterity",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire Resistance\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 12,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Muttering Essence of Anger",
+            "Display": "+(12-17)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Weeping Essence of Anger",
+            "Display": "+(18-23)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 36,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Wailing Essence of Anger",
+            "Display": "+(24-29)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Screaming Essence of Anger",
+            "Display": "+(36-41)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Shrieking Essence of Anger",
+            "Display": "+(42-45)% to Fire Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Deafening Essence of Anger",
+            "Display": "+(46-48)% to Fire Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance to Avoid being Shocked\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Muttering Essence of Torment",
+            "Display": "(11-14)% chance to Avoid being Shocked ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Weeping Essence of Torment",
+            "Display": "(15-18)% chance to Avoid being Shocked ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Wailing Essence of Torment",
+            "Display": "(19-22)% chance to Avoid being Shocked ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Screaming Essence of Torment",
+            "Display": "(23-26)% chance to Avoid being Shocked ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Shrieking Essence of Torment",
+            "Display": "(27-30)% chance to Avoid being Shocked ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Deafening Essence of Torment",
+            "Display": "(31-44)% chance to Avoid being Shocked ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Minions have #% increased maximum Life\n",
+        "FossilCategories": [
+          "minion"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Muttering Essence of Fear",
+            "Display": "Minions have (7-10)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Weeping Essence of Fear",
+            "Display": "Minions have (11-14)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Wailing Essence of Fear",
+            "Display": "Minions have (15-18)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Screaming Essence of Fear",
+            "Display": "Minions have (19-22)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Shrieking Essence of Fear",
+            "Display": "Minions have (23-26)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Deafening Essence of Fear",
+            "Display": "Minions have (27-30)% increased maximum Life ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Avoids Chilled#% chance to Avoid being Frozen\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Weeping Essence of Suffering",
+            "Display": "Avoids Chilled(15-18)% chance to Avoid being Frozen ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Wailing Essence of Suffering",
+            "Display": "Avoids Chilled(19-22)% chance to Avoid being Frozen ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Screaming Essence of Suffering",
+            "Display": "Avoids Chilled(23-26)% chance to Avoid being Frozen ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Shrieking Essence of Suffering",
+            "Display": "Avoids Chilled(27-30)% chance to Avoid being Frozen ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Deafening Essence of Suffering",
+            "Display": "Avoids Chilled(31-44)% chance to Avoid being Frozen ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Strength\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 22,
+            "Special": {},
+            "Essence": "Weeping Essence of Rage",
+            "Display": "+(18-22) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Wailing Essence of Rage",
+            "Display": "+(28-32) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 55,
+            "Special": {},
+            "Essence": "Screaming Essence of Rage",
+            "Display": "+(33-37) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {},
+            "Essence": "Shrieking Essence of Rage",
+            "Display": "+(43-50) to Strength",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Rage",
+            "Display": "+(51-58) to Strength",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Lightning Resistance\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Weeping Essence of Wrath",
+            "Display": "+(18-23)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 37,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Wailing Essence of Wrath",
+            "Display": "+(24-29)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Screaming Essence of Wrath",
+            "Display": "+(36-41)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Shrieking Essence of Wrath",
+            "Display": "+(42-45)% to Lightning Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Deafening Essence of Wrath",
+            "Display": "+(46-48)% to Lightning Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance to Avoid being Ignited\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Wailing Essence of Anguish",
+            "Display": "(19-22)% chance to Avoid being Ignited ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Screaming Essence of Anguish",
+            "Display": "(23-26)% chance to Avoid being Ignited ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Shrieking Essence of Anguish",
+            "Display": "(27-30)% chance to Avoid being Ignited ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Deafening Essence of Anguish",
+            "Display": "(31-34)% chance to Avoid being Ignited ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Stun Duration on Enemies\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": "Wailing Essence of Loathing",
+            "Display": "(21-25)% increased Stun Duration on Enemies",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Screaming Essence of Loathing",
+            "Display": "(26-30)% increased Stun Duration on Enemies",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": "Shrieking Essence of Loathing",
+            "Display": "(31-35)% increased Stun Duration on Enemies",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Loathing",
+            "Display": "(36-39)% increased Stun Duration on Enemies",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": " to Intelligence\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Wailing Essence of Spite",
+            "Display": "+(28-32) to Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 55,
+            "Special": {},
+            "Essence": "Screaming Essence of Spite",
+            "Display": "+(33-37) to Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {},
+            "Essence": "Shrieking Essence of Spite",
+            "Display": "+(43-50) to Intelligence",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Spite",
+            "Display": "+(51-58) to Intelligence",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Stun and Block Recovery\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 42,
+            "Special": {},
+            "Essence": "Wailing Essence of Zeal",
+            "Display": "(20-22)% increased Stun and Block Recovery",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 56,
+            "Special": {},
+            "Essence": "Screaming Essence of Zeal",
+            "Display": "(23-25)% increased Stun and Block Recovery",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 79,
+            "Special": {},
+            "Essence": "Shrieking Essence of Zeal",
+            "Display": "(26-28)% increased Stun and Block Recovery",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Zeal",
+            "Display": "(29-34)% increased Stun and Block Recovery",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% reduced Enemy Stun Threshold\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": "Screaming Essence of Scorn",
+            "Display": "(12-13)% reduced Enemy Stun Threshold",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": "Shrieking Essence of Scorn",
+            "Display": "(14-15)% reduced Enemy Stun Threshold",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 82,
+            "Special": {},
+            "Essence": "Deafening Essence of Scorn",
+            "Display": "(16-17)% reduced Enemy Stun Threshold",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Chaos Resistance\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 56,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Screaming Essence of Envy",
+            "Display": "+(21-25)% to Chaos Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 65,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Shrieking Essence of Envy",
+            "Display": "+(26-30)% to Chaos Resistance ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Deafening Essence of Envy",
+            "Display": "+(31-35)% to Chaos Resistance ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Damage Penetrates #% Elemental Resistances during any Flask Effect\n",
+        "FossilCategories": [
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "elemental"
+              ]
+            },
+            "Essence": "Essence of Hysteria",
+            "Display": "Damage Penetrates 5% Elemental Resistances during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Movement Speed during any Flask Effect\n",
+        "FossilCategories": [
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": "Essence of Insanity",
+            "Display": "10% increased Movement Speed during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% additional Physical Damage Reduction during any Flask Effect\n",
+        "FossilCategories": [
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Essence of Horror",
+            "Display": "5% additional Physical Damage Reduction during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% to Chaos Resistance during any Flask Effect\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Essence of Delirium",
+            "Display": "+50% to Chaos Resistance during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Delve Prefix",
+    "Children": [
+      {
+        "Display": "#% increased Fire Damage\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": "Scorched Fossil",
+            "Display": "(20-30)% increased Fire Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Cold Damage\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": "Frigid Fossil",
+            "Display": "(20-30)% increased Cold Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Lightning Damage\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": "Metallic Fossil",
+            "Display": "(20-30)% increased Lightning Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Global Physical Damage\n",
+        "FossilCategories": [
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": "Jagged Fossil",
+            "Display": "(20-30)% increased Global Physical Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Chaos Damage\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": "Aberrant Fossil",
+            "Display": "(20-30)% increased Chaos Damage ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Delve Suffix",
+    "Children": [
+      {
+        "Display": "#% increased Life Recovery from Flasks\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Pristine Fossil",
+            "Display": "(20-30)% increased Life Recovery from Flasks ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Energy Shield from Body Armour\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Dense Fossil",
+            "Display": "(10-16)% increased Energy Shield from Body Armour ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance when Hit for double Armour effect\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Dense Fossil",
+            "Display": "20% chance when Hit for double Armour effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% chance to Evade Attacks\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": "Dense Fossil",
+            "Display": "+(1-2)% chance to Evade Attacks ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Damage with Ailments\n",
+        "FossilCategories": [
+          "poison",
+          "bleed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "poison",
+                "bleed"
+              ]
+            },
+            "Essence": "Corroded Fossil",
+            "Display": "(30-40)% increased Damage with Ailments ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Elemental Damage\n",
+        "FossilCategories": [
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "elemental"
+              ]
+            },
+            "Essence": "Prismatic Fossil",
+            "Display": "(25-30)% increased Elemental Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Mana Recovery rate\n",
+        "FossilCategories": [
+          "mana"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": "Lucent Fossil",
+            "Display": "(8-12)% increased Mana Recovery rate ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance to gain Onslaught when you use a Flask\n",
+        "FossilCategories": [
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": "Shuddering Fossil",
+            "Display": "(15-20)% chance to gain Onslaught when you use a Flask ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Minions have #% increased maximum Life\n",
+        "FossilCategories": [
+          "minion"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 74,
+            "Special": {
+              "Fossil": [
+                "minion"
+              ]
+            },
+            "Essence": "Bound Fossil",
+            "Display": "Minions have (20-30)% increased maximum Life ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Vaal Skill Damage\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": "Bloodstained Fossil",
+            "Display": "(20-40)% increased Vaal Skill Damage",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "The Shaper Prefix",
+    "Children": [
+      {
+        "Display": "#% increased maximum Energy Shield\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "(4-7)% increased maximum Energy Shield ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-10)% increased maximum Energy Shield ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% reduced Extra Damage from Critical Strikes\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "You take (15-20)% reduced Extra Damage from Critical Strikes",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "You take (21-30)% reduced Extra Damage from Critical Strikes",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Grants Level # Abyssal Cry Skill\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "Grants Level 22 Abyssal Cry Skill ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "The Shaper Suffix",
+    "Children": [
+      {
+        "Display": "# Physical Damage taken from Attacks\n",
+        "FossilCategories": [
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": null,
+            "Display": "(-35--25) Physical Damage taken from Attacks ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "physical"
+              ]
+            },
+            "Essence": null,
+            "Display": "(-45--36) Physical Damage taken from Attacks ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased Cooldown Recovery Speed\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-15)% increased Cooldown Recovery Speed",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 84,
+            "Special": {},
+            "Essence": null,
+            "Display": "(16-20)% increased Cooldown Recovery Speed",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Energy Shield Recovery rate\n",
+        "FossilCategories": [
+          "defences"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-15)% increased Energy Shield Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "defences"
+              ]
+            },
+            "Essence": null,
+            "Display": "(16-20)% increased Energy Shield Recovery rate ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Mana Recovery rate\n",
+        "FossilCategories": [
+          "mana"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-15)% increased Mana Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "(16-20)% increased Mana Recovery rate ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Movement Speed during any Flask Effect\n",
+        "FossilCategories": [
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ]
+            },
+            "Essence": null,
+            "Display": "(6-10)% increased Movement Speed during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Remove Chill and Freeze when you use a Flask\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "Remove Chill and Freeze when you use a Flask ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "Remove Shock when you use a Flask ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Cast Speed during any Flask Effect\n",
+        "FossilCategories": [
+          "caster",
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "caster",
+                "speed"
+              ],
+              "Master Craft": [
+                "caster"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-14)% increased Cast Speed during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Spell Damage during any Flask Effect\n",
+        "FossilCategories": [
+          "caster"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "caster"
+              ],
+              "Master Craft": [
+                "caster"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-25)% increased Spell Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "caster"
+              ],
+              "Master Craft": [
+                "caster"
+              ]
+            },
+            "Essence": null,
+            "Display": "(26-30)% increased Spell Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 80,
+            "Special": {
+              "Fossil": [
+                "caster"
+              ],
+              "Master Craft": [
+                "caster"
+              ]
+            },
+            "Essence": null,
+            "Display": "(31-35)% increased Spell Damage during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "The Elder Prefix",
+    "Children": [
+      {
+        "Display": "#% increased maximum Life\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(4-7)% increased maximum Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-10)% increased maximum Life ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% increased effect of Flasks on you\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(4-7)% increased effect of Flasks on you",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 81,
+            "Special": {},
+            "Essence": null,
+            "Display": "(8-10)% increased effect of Flasks on you",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "% chance for your Flasks to not consume Charges\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 82,
+            "Special": {},
+            "Essence": null,
+            "Display": "(6-10)% chance for your Flasks to not consume Charges",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance to gain Fortify when you Stun an Enemy with Melee Damage\n",
+        "FossilCategories": [
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-12)% chance to gain Fortify when you Stun an Enemy with Melee Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "# Enduring Cry Skill\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "Grants Level 22 Enduring Cry Skill",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "Grants Level 22 Rallying Cry Skill",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "The Elder Suffix",
+    "Children": [
+      {
+        "Display": "% increased Attributes\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {},
+            "Essence": null,
+            "Display": "(6-9)% increased Attributes",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {},
+            "Essence": null,
+            "Display": "(10-12)% increased Attributes",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to all Elemental Resistances\n",
+        "FossilCategories": [
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(9-12)% to all Elemental Resistances ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "elemental"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(13-15)% to all Elemental Resistances ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Life Recovery rate\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-15)% increased Life Recovery rate ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(16-20)% increased Life Recovery rate ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Chaos Resistance during any Flask Effect\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(20-25)% to Chaos Resistance during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(26-30)% to Chaos Resistance during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Remove Ignite and Burning when you use a Flask\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "Remove Ignite and Burning when you use a Flask ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Attack Speed during any Flask Effect\n",
+        "FossilCategories": [
+          "attack",
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-14)% increased Attack Speed during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Melee Damage during any Flask Effect\n",
+        "FossilCategories": [
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-25)% increased Melee Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(26-30)% increased Melee Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 80,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(31-35)% increased Melee Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 68,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-25)% increased Projectile Attack Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 75,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(26-30)% increased Projectile Attack Damage during any Flask Effect ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": null,
+            "ILvl": 80,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(31-35)% increased Projectile Attack Damage during any Flask Effect ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  }
+]

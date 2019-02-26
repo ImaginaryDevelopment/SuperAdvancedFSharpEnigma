@@ -1,0 +1,1995 @@
+[
+  {
+    "EffixType": "Prefix",
+    "Children": [
+      {
+        "Display": "#% increased Physical Damage+# to Accuracy Rating\n",
+        "FossilCategories": [
+          "attack",
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "Squire's",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(15-19)% increased Physical Damage+(3-7) to Accuracy Rating ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "Journeyman's",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-24)% increased Physical Damage+(8-30) to Accuracy Rating ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "Reaver's",
+            "ILvl": 23,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(25-34)% increased Physical Damage+(31-50) to Accuracy Rating ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Mercenary's",
+            "ILvl": 35,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(35-44)% increased Physical Damage+(51-64) to Accuracy Rating ",
+            "Chance": "2.35%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Champion's",
+            "ILvl": 46,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(45-54)% increased Physical Damage+(65-82) to Accuracy Rating ",
+            "Chance": "1.17%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Conqueror's",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(55-64)% increased Physical Damage+(83-99) to Accuracy Rating ",
+            "Chance": "0.59%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Emperor's",
+            "ILvl": 73,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(65-74)% increased Physical Damage+(100-134) to Accuracy Rating ",
+            "Chance": "0.29%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Dictator's",
+            "ILvl": 83,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(75-79)% increased Physical Damage+(135-169) to Accuracy Rating ",
+            "Chance": "0.15%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Physical Damage\n",
+        "FossilCategories": [
+          "attack",
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "Heavy",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(40-49)% increased Physical Damage ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "Serrated",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(50-64)% increased Physical Damage ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "Wicked",
+            "ILvl": 23,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(65-84)% increased Physical Damage ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "Vicious",
+            "ILvl": 35,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(85-109)% increased Physical Damage ",
+            "Chance": "2.35%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Bloodthirsty",
+            "ILvl": 46,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(110-134)% increased Physical Damage ",
+            "Chance": "1.17%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Cruel",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(135-154)% increased Physical Damage ",
+            "Chance": "0.59%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Tyrannical",
+            "ILvl": 73,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(155-169)% increased Physical Damage ",
+            "Chance": "0.29%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Merciless",
+            "ILvl": 83,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(170-179)% increased Physical Damage ",
+            "Chance": "0.15%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Elemental Damage with Attack Skills\n",
+        "FossilCategories": [
+          "attack",
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 5",
+            "Meta": "Catalysing",
+            "ILvl": 4,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(5-10)% increased Elemental Damage with Attack Skills ",
+            "Chance": "1.76%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "Infusing",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(11-20)% increased Elemental Damage with Attack Skills ",
+            "Chance": "1.76%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "Empowering",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(21-30)% increased Elemental Damage with Attack Skills ",
+            "Chance": "1.76%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Unleashed",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(31-37)% increased Elemental Damage with Attack Skills ",
+            "Chance": "1.76%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Overpowering",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "elemental"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(38-42)% increased Elemental Damage with Attack Skills ",
+            "Chance": "1.76%"
+          }
+        ]
+      },
+      {
+        "Display": "# to Level of Socketed Gems\n",
+        "FossilCategories": [
+          "gem_level"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "Paragon's",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "gem_level"
+              ]
+            },
+            "Essence": null,
+            "Display": "+1 to Level of Socketed Gems ",
+            "Chance": "1.47%"
+          }
+        ]
+      },
+      {
+        "Display": "# to Level of Socketed Melee Gems\n",
+        "FossilCategories": [
+          "attack",
+          "gem_level"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 2",
+            "Meta": "Combatant's",
+            "ILvl": 8,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "gem_level"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+1 to Level of Socketed Melee Gems ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Weaponmaster's",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "gem_level"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+2 to Level of Socketed Melee Gems ",
+            "Chance": "5.87%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Fishing Line Strength\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "Filigree",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(20-40)% increased Fishing Line Strength",
+            "Chance": "5.87%"
+          }
+        ]
+      },
+      {
+        "Display": "% reduced Fishing Pool Consumption\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "Calming",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(15-30)% reduced Fishing Pool Consumption",
+            "Chance": "5.87%"
+          }
+        ]
+      },
+      {
+        "Display": "",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "Alluring",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "Rhoa Feather Lure",
+            "Chance": "5.87%"
+          }
+        ]
+      },
+      {
+        "Display": "#% of Physical Attack Damage Leeched as Life\n",
+        "FossilCategories": [
+          "attack",
+          "life",
+          "physical"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 3",
+            "Meta": "Remora's",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(0.2-0.4)% of Physical Attack Damage Leeched as Life ",
+            "Chance": "5.87%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "Lamprey's",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(0.6-0.8)% of Physical Attack Damage Leeched as Life ",
+            "Chance": "2.93%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "Vampire's",
+            "ILvl": 70,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life",
+                "physical"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(1-1.2)% of Physical Attack Damage Leeched as Life ",
+            "Chance": "1.47%"
+          }
+        ]
+      },
+      {
+        "Display": "#% of Physical Attack Damage Leeched as Mana\n",
+        "FossilCategories": [
+          "attack",
+          "physical",
+          "mana"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "Thirsty",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "physical",
+                "mana"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(0.2-0.4)% of Physical Attack Damage Leeched as Mana ",
+            "Chance": "5.87%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Suffix",
+    "Children": [
+      {
+        "Display": "#% increased Cast Speed\n",
+        "FossilCategories": [
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Casting",
+            "ILvl": 10,
+            "Special": {
+              "Fossil": [
+                "speed"
+              ],
+              "Master Craft": [
+                "caster"
+              ]
+            },
+            "Essence": null,
+            "Display": "(24-28)% increased Cast Speed ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Attack Speed\n",
+        "FossilCategories": [
+          "attack",
+          "speed"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of Skill",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(5-7)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of Ease",
+            "ILvl": 11,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(8-10)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of Mastery",
+            "ILvl": 22,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(11-13)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Renown",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(14-16)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Acclaim",
+            "ILvl": 37,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(17-19)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Fame",
+            "ILvl": 45,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-22)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Infamy",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(23-25)% increased Attack Speed ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Celebration",
+            "ILvl": 77,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "speed"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(26-27)% increased Attack Speed ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Fire Resistance\n",
+        "FossilCategories": [
+          "fire"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Whelpling",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Salamander",
+            "ILvl": 12,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Drake",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Kiln",
+            "ILvl": 36,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Furnace",
+            "ILvl": 48,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Volcano",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Magma",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Fire Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Tzteosh",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "fire"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Fire Resistance ",
+            "Chance": "0.78%"
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Cold Resistance\n",
+        "FossilCategories": [
+          "cold"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Inuit",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Seal",
+            "ILvl": 14,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Penguin",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Yeti",
+            "ILvl": 38,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Walrus",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Polar Bear",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Ice",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Cold Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Haast",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "cold"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Cold Resistance ",
+            "Chance": "0.78%"
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Lightning Resistance\n",
+        "FossilCategories": [
+          "lightning"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 8",
+            "Meta": "of the Cloud",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(6-11)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of the Squall",
+            "ILvl": 13,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(12-17)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Storm",
+            "ILvl": 25,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(18-23)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Thunderhead",
+            "ILvl": 37,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(24-29)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Tempest",
+            "ILvl": 49,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(30-35)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Maelstrom",
+            "ILvl": 60,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(36-41)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Lightning",
+            "ILvl": 72,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(42-45)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Ephij",
+            "ILvl": 84,
+            "Special": {
+              "Fossil": [
+                "lightning"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(46-48)% to Lightning Resistance ",
+            "Chance": "0.78%"
+          }
+        ]
+      },
+      {
+        "Display": "+#% to Chaos Resistance\n",
+        "FossilCategories": [
+          "chaos"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "of the Lost",
+            "ILvl": 16,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(5-10)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Banishment",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(11-15)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Eviction",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-20)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Expulsion",
+            "ILvl": 56,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(21-25)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Exile",
+            "ILvl": 65,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(26-30)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Bameth",
+            "ILvl": 81,
+            "Special": {
+              "Fossil": [
+                "chaos"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(31-35)% to Chaos Resistance ",
+            "Chance": "0.19%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Stun Duration on Enemies\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Impact",
+            "ILvl": 5,
+            "Special": {},
+            "Essence": null,
+            "Display": "(11-15)% increased Stun Duration on Enemies",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Dazing",
+            "ILvl": 18,
+            "Special": {},
+            "Essence": null,
+            "Display": "(16-20)% increased Stun Duration on Enemies",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Stunning",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": null,
+            "Display": "(21-25)% increased Stun Duration on Enemies",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Slamming",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": null,
+            "Display": "(26-30)% increased Stun Duration on Enemies",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Staggering",
+            "ILvl": 58,
+            "Special": {},
+            "Essence": null,
+            "Display": "(31-35)% increased Stun Duration on Enemies",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "# Life gained for each Enemy hit by Attacks\n",
+        "FossilCategories": [
+          "attack",
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Rejuvenation",
+            "ILvl": 8,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+2 Life gained for each Enemy hit by Attacks ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Restoration",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+3 Life gained for each Enemy hit by Attacks ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Regrowth",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+4 Life gained for each Enemy hit by Attacks ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Nourishment",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "attack",
+                "life"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+5 Life gained for each Enemy hit by Attacks ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "+# Life gained on Kill\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Success",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(3-6) Life gained on Kill ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Victory",
+            "ILvl": 23,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(7-10) Life gained on Kill ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Triumph",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(11-14) Life gained on Kill ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "# Mana gained on Kill\n",
+        "FossilCategories": [
+          "mana"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Absorption",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+1 Mana gained on Kill ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Osmosis",
+            "ILvl": 24,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(2-3) Mana gained on Kill ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Consumption",
+            "ILvl": 40,
+            "Special": {
+              "Fossil": [
+                "mana"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(4-6) Mana gained on Kill ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Critical Strike Chance\n",
+        "FossilCategories": [
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "of Needling",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(10-14)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Stinging",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(15-19)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Piercing",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(20-24)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Puncturing",
+            "ILvl": 44,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(25-29)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Penetrating",
+            "ILvl": 59,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(30-34)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Incision",
+            "ILvl": 73,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "(35-38)% increased Critical Strike Chance ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "% to Global Critical Strike Multiplier\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 6",
+            "Meta": "of Ire",
+            "ILvl": 8,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(10-14)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of Anger",
+            "ILvl": 21,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(15-19)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of Rage",
+            "ILvl": 30,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(20-24)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Fury",
+            "ILvl": 44,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(25-29)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Ferocity",
+            "ILvl": 59,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(30-34)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Destruction",
+            "ILvl": 73,
+            "Special": {},
+            "Essence": null,
+            "Display": "+(35-38)% to Global Critical Strike Multiplier",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "+# to Accuracy Rating\n",
+        "FossilCategories": [
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 9",
+            "Meta": "of Calm",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(5-15) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 8",
+            "Meta": "of Steadiness",
+            "ILvl": 12,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(16-60) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 7",
+            "Meta": "of Accuracy",
+            "ILvl": 20,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(61-100) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 6",
+            "Meta": "of Precision",
+            "ILvl": 26,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(101-130) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 5",
+            "Meta": "of the Sniper",
+            "ILvl": 33,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(131-165) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 4",
+            "Meta": "of the Marksman",
+            "ILvl": 41,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(166-200) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 3",
+            "Meta": "of the Deadeye",
+            "ILvl": 50,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(201-250) to Accuracy Rating ",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Ranger",
+            "ILvl": 63,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "+(251-320) to Accuracy Rating ",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "% reduced Attribute Requirements\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 2",
+            "Meta": "of the Worthy",
+            "ILvl": 36,
+            "Special": {},
+            "Essence": null,
+            "Display": "18% reduced Attribute Requirements",
+            "Chance": "1.56%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of the Apt",
+            "ILvl": 60,
+            "Special": {},
+            "Essence": null,
+            "Display": "32% reduced Attribute Requirements",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Light Radius+# to Accuracy Rating\n",
+        "FossilCategories": [
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": "Tier 3",
+            "Meta": "of Shining",
+            "ILvl": 8,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "5% increased Light Radius+(10-20) to Accuracy Rating ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 2",
+            "Meta": "of Light",
+            "ILvl": 15,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "10% increased Light Radius+(21-40) to Accuracy Rating ",
+            "Chance": "0.78%"
+          },
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Radiance",
+            "ILvl": 30,
+            "Special": {
+              "Fossil": [
+                "attack"
+              ],
+              "Master Craft": [
+                "attack"
+              ]
+            },
+            "Essence": null,
+            "Display": "15% increased Light Radius(5-10)% increased Global Accuracy Rating ",
+            "Chance": "0.78%"
+          }
+        ]
+      },
+      {
+        "Display": "",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Snaring",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "Karui Stone Hook",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Fishing Range\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Flight",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(30-50)% increased Fishing Range",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Quantity of Fish Caught\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Fascination",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(15-20)% increased Quantity of Fish Caught",
+            "Chance": "1.56%"
+          }
+        ]
+      },
+      {
+        "Display": "% increased Rarity of Fish Caught\n",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": "Tier 1",
+            "Meta": "of Bounty",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": null,
+            "Display": "(25-40)% increased Rarity of Fish Caught",
+            "Chance": "1.56%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Delve Prefix",
+    "Children": [
+      {
+        "Display": "#% chance for Poisons inflicted with this Weapon to deal #% more Damage\n",
+        "FossilCategories": [
+          "poison"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "poison"
+              ]
+            },
+            "Essence": "Corroded Fossil",
+            "Display": "60% chance for Poisons inflicted with this Weapon to deal 100% more Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% chance for Bleeding inflicted with this Weapon to deal #% more Damage\n",
+        "FossilCategories": [
+          "bleed"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "bleed"
+              ]
+            },
+            "Essence": "Corroded Fossil",
+            "Display": "60% chance for Bleeding inflicted with this Weapon to deal 100% more Damage ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "Attacks with this Weapon Penetrate #% Elemental Resistances\n",
+        "FossilCategories": [
+          "elemental"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "elemental"
+              ]
+            },
+            "Essence": "Prismatic Fossil",
+            "Display": "Attacks with this Weapon Penetrate (16-20)% Elemental Resistances ",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EffixType": "Delve Suffix",
+    "Children": [
+      {
+        "Display": "#% chance to Intimidate Enemies for # seconds on Hit\n",
+        "FossilCategories": [
+          "physical",
+          "attack"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "physical",
+                "attack"
+              ]
+            },
+            "Essence": "Jagged Fossil",
+            "Display": "15% chance to Intimidate Enemies for 4 seconds on Hit ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "#% increased Damage when on Full Life\n",
+        "FossilCategories": [
+          "life"
+        ],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": "Pristine Fossil",
+            "Display": "(50-60)% increased Damage when on Full Life ",
+            "Chance": null
+          },
+          {
+            "Tier": null,
+            "Meta": "of the Underground",
+            "ILvl": 1,
+            "Special": {
+              "Fossil": [
+                "life"
+              ]
+            },
+            "Essence": null,
+            "Display": "(100-120)% increased Damage when on Full Life ",
+            "Chance": null
+          }
+        ]
+      },
+      {
+        "Display": "",
+        "FossilCategories": [],
+        "Children": [
+          {
+            "Tier": null,
+            "Meta": "",
+            "ILvl": 1,
+            "Special": {},
+            "Essence": "Hollow Fossil",
+            "Display": "Has 1 Abyssal Socket",
+            "Chance": null
+          }
+        ]
+      }
+    ]
+  }
+]
